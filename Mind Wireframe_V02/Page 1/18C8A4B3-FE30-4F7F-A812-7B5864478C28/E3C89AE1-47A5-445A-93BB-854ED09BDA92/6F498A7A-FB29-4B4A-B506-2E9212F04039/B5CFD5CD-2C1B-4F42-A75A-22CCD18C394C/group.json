@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5CFD5CD-2C1B-4F42-A75A-22CCD18C394C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40684741-71BA-45AF-992B-FAE23BAD9203",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83D50574-B894-4AD9-ACC1-22AE42A1D6AF",
+    "height": 156,
+    "width": 257,
+    "x": 0,
+    "y": 208
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "93425CCD-ACE5-40EA-A8E6-14E23CA9D089"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "816578D8-FA07-4892-BEA8-35133F135117"
+    },
+    {
+      "class": "text",
+      "id": "68378032-AF27-4478-BE8A-A5BED642D087"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F515931-A221-41EE-BAF4-5273A127E166"
+    },
+    {
+      "class": "text",
+      "id": "E34A4781-9228-4323-8B1F-34820FCA2963"
+    }
+  ],
+  "name": "Text input/Focus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "F9484C19-6D09-49D1-89EA-9D22061AC0AA",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "8EEEB16B-3CCB-4A1E-A3E8-8B1E83AD5B0E",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "453F60A8-4530-463B-813E-D8E10034F61C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

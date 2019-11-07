@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1AB4E594-5C00-400D-A376-51C215DFF62A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06D77672-556F-4CA6-AAD1-ED11DC86DB68",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D6CFA1E6-ECDD-43BE-B487-826435238349",
+    "height": 322,
+    "width": 255,
+    "x": 0,
+    "y": 75
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "685E396F-25E7-4518-9B92-7E5929A1F5A4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F0E5D5CB-A2F5-4ED7-A681-C1C6BA489F7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83A66EFB-F142-4ACC-8BD4-5E312D6BF23D"
+    },
+    {
+      "class": "group",
+      "id": "34918494-FC47-43EA-A071-301D97E2FB70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F4F4EB8-C81A-47B9-87B7-FF1E59BCAF09"
+    }
+  ],
+  "name": "Card/Blog/Simple Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "E3B0FD3A-BDB6-4582-A696-60ECF336BC8E",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "D0144730-5596-4AB4-8921-425EF7D99BCA",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "FEC4982D-FD73-43D5-B331-5DA7A34053C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

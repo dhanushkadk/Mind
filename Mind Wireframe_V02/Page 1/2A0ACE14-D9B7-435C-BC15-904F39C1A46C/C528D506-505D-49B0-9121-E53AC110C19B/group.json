@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C528D506-505D-49B0-9121-E53AC110C19B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A0B212A-BF0E-4CFD-A635-31D9299A7A3A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C6FC8E8-F0C7-40A3-9CBA-82094628D8F5",
+    "height": 272,
+    "width": 761,
+    "x": 56,
+    "y": 456
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CADCA772-D2B6-4F6D-BE7F-1932213E7F59"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3B2C7A68-932B-46AA-8045-26677A77EB0C"
+    },
+    {
+      "class": "group",
+      "id": "B65EB9A0-783E-4669-A1D8-F353541A17AB"
+    },
+    {
+      "class": "group",
+      "id": "EE246147-63E9-4849-A393-B920BA5A2E4A"
+    },
+    {
+      "class": "text",
+      "id": "BAC583F7-E678-4B5E-BF7C-EB282F26683D"
+    }
+  ],
+  "name": "Material",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "C7ACEEC0-2608-4D56-8AD8-8E30DEA481F2",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "632928DD-F398-4611-BC95-2638B88EADE5",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "B006309B-A868-4334-AB92-C6851C2CE007",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

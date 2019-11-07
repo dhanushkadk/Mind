@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C776293-16E1-4706-9376-C0D94DAADE20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9EE2973A-64E5-4F99-96D0-08F25C16D95B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86262F0A-EA1E-4A71-A07D-DA620861F44F",
+    "height": 103,
+    "width": 120,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "75924584-47B0-437E-8C7A-37E771D9E6B7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3BDC9356-B251-4719-A7AB-7BFA6C97583C"
+    },
+    {
+      "class": "text",
+      "id": "FE97B942-64F2-460D-B12E-C5EF8631BC97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F64AE9C-3618-4747-9991-46CC33116D53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFC91FFE-C979-41D7-B5B9-13FC512F1763"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "46895BF2-B8FD-4645-9D6C-C13D444835DF",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "70745154-4CD7-4B38-ACF0-031DA8EFF2AD",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "6A913892-341B-4AAB-97B0-41150CFF6646",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

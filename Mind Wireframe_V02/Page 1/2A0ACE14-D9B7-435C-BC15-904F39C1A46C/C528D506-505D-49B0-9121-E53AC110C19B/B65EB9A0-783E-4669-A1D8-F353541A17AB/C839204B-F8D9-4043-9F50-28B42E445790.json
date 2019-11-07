@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C839204B-F8D9-4043-9F50-28B42E445790",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55D3FC70-33CE-4C3E-9F2E-6DA62E3A7A14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "86EA865E-93C8-4651-8209-F1E07BB2231D",
+    "do_objectID": "A54EB672-C38B-4C66-BB29-FEADFC4915C0"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB0BF2BC-8BD8-4DB3-A312-8FA4993811F0",
+    "height": 48,
+    "width": 80,
+    "x": 603,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Button",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C9CEE6E6-64E6-418D-B362-5CAE914F651F",
+      "overrideName": "FF5906E0-8F7F-4140-A3F7-4E18FBEA1666/90353B50-0AE4-4833-8D4D-65A809869EAB_stringValue",
+      "value": "Divider"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "BD68F1EF-BF96-470A-9BC9-64D959C0BD20",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "4C073652-7FF7-41CF-BCAA-DC7E449E8414",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "2CC4946E-299D-4555-985C-F5CD3B1E1081",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8EE593D-09D3-4F67-8B77-098522FBF3CC",
+  "verticalSpacing": 0
+}
