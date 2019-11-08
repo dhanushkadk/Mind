@@ -35,7 +35,7 @@
     "do_objectID": "4A745DC7-988D-449A-A6F8-775E9A9958FA"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,10 +55,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "A6F5A8F6-AF1A-4636-A212-1845B55C8D18"
-    },
-    {
       "class": "text",
       "id": "0E37861A-A4E4-42AC-BBD0-5A8AB57048E5"
     },
@@ -77,6 +73,10 @@
     {
       "class": "group",
       "id": "6F21BFC8-559C-49E1-8D33-9F65FFA17D11"
+    },
+    {
+      "class": "group",
+      "id": "C06AF0DD-8D46-4BCA-BC32-CCD07B140157"
     }
   ],
   "layout": {
