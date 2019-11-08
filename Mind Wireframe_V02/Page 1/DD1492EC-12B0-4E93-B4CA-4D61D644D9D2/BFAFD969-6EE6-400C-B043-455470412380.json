@@ -81,7 +81,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 70,
+        "length": 74,
         "location": 36
       },
       {
@@ -109,7 +109,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 12,
-        "location": 106
+        "location": 110
       },
       {
         "_class": "stringAttribute",
@@ -136,10 +136,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 118
+        "location": 122
       }
     ],
-    "string": "Your email address is mind@gmail.com. You’ll also receive emergency SMS (e.g. when you are locked out) on +82921831921."
+    "string": "Your email address is mind@gmail.com. You’ll also receive an emergency SMS\n (e.g. when you are locked out) on +82921831921."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -165,7 +165,7 @@
     "x": 450,
     "y": 430
   },
-  "glyphBounds": "{{0, 7}, {772, 53}}",
+  "glyphBounds": "{{0, 7}, {754, 53}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
