@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E1C9023-2A71-4810-A29C-B17FD935D1D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18F33BE7-46E0-4138-BB67-B3EAE51D6996",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC1617CF-8E6D-45D6-ADCF-4746D0D6B0E9",
+    "height": 39,
+    "width": 45,
+    "x": 257,
+    "y": 1442
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "AE949CE5-5441-41AC-BD4E-FDAF5A6FF921"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "944EAFB6-B4B4-4035-9C70-2EFC91A86A79"
+    },
+    {
+      "class": "oval",
+      "id": "B8F46DD7-33B1-44AA-8E56-618C9F9BF8E8"
+    }
+  ],
+  "name": "Wallet",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C1BA7AC-69BE-442C-A258-EDD804C08AE6",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

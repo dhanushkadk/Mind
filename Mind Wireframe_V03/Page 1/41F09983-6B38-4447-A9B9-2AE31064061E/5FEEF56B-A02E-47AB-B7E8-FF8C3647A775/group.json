@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5FEEF56B-A02E-47AB-B7E8-FF8C3647A775",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3261E98-D2DF-4F3B-A0F0-91FB6840D713",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D6C5226-9287-4882-BEBF-B0A55348C95D",
+    "height": 30,
+    "width": 45,
+    "x": 874,
+    "y": 2784
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2F947D40-4888-444E-A72E-BD9960A91F9D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2D8FD66D-4710-404C-A31E-0BC9F57799D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "5BD3EDE7-C0E5-43D1-A2EC-403D39169C02"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB3BD19A-3A40-45F6-AE3F-9886E654F1E1"
+    }
+  ],
+  "name": "Glasses",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C19D8EC-D238-4178-9D66-085842DF4964",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

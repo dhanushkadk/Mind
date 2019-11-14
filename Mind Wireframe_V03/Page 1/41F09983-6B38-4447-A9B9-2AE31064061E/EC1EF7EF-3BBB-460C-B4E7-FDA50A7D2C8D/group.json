@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC1EF7EF-3BBB-460C-B4E7-FDA50A7D2C8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9731484C-B03B-44D7-BDE4-9A451F51F86B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BA236BA-8DA7-4E86-9F38-DEF84685ECA7",
+    "height": 39,
+    "width": 45,
+    "x": 433,
+    "y": 911
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0E547127-56FA-4ECE-A279-5639672DC8F4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "15D7CC3A-DE72-42D6-8ADA-B8BE82FD73C6"
+    },
+    {
+      "class": "shapePath",
+      "id": "06434F51-A05E-4431-915A-0CD6226BED42"
+    }
+  ],
+  "name": "Cloud_upload",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A16C0DF-5A2A-4847-BBAF-B183994DF2A6",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
