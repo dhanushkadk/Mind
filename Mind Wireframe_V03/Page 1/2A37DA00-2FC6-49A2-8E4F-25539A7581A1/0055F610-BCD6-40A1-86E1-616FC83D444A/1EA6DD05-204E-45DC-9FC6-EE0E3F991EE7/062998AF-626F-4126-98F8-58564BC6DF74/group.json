@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "062998AF-626F-4126-98F8-58564BC6DF74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A15DA950-6931-43CC-939F-FFE5D14A1477",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1974E4FA-CE2B-4254-9BB3-0DF52E651F28",
+    "height": 281,
+    "width": 239,
+    "x": 8,
+    "y": 20
+  },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "do_objectID": "3817F6A7-1829-4843-B60A-689D749D4929",
+    "layoutAnchor": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0695063E-97CC-4AF1-8985-80A026700F77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B3F3F9D-AE82-4CC4-B9B2-1275B5840E5B"
+    },
+    {
+      "class": "text",
+      "id": "8C0C7B5E-FCF0-43D4-9035-B069CE9978BB"
+    },
+    {
+      "class": "group",
+      "id": "781B3D92-137C-4619-BE94-A6A564DC2372"
+    }
+  ],
+  "name": "Text",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "EF3268B9-B690-4745-BCE0-30C66CFD3766",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "D355B460-8594-498F-8C57-3C8317B978A0",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "EBD3D317-02F7-450A-B951-050FAF891CFF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

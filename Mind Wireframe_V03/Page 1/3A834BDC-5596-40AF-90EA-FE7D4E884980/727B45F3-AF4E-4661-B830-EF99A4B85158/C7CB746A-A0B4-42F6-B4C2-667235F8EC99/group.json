@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7CB746A-A0B4-42F6-B4C2-667235F8EC99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C9DF629-3E80-4DC7-B484-ED935FCE6E16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DA2A6AA-CC4C-43F3-8720-84330095457A",
+    "height": 321,
+    "width": 160,
+    "x": 208,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E70395F2-4E46-4E56-93F0-61821990DE05"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E2EBC8A9-455E-48BD-8ACA-04E25AD808B2"
+    },
+    {
+      "class": "group",
+      "id": "3BEAD22F-FA81-4EB7-8198-355419C9B1FB"
+    },
+    {
+      "class": "group",
+      "id": "510391C8-B226-46C4-A883-250018E322C6"
+    },
+    {
+      "class": "group",
+      "id": "7710DE62-9A78-4CF8-887A-996868C57AE0"
+    }
+  ],
+  "name": "Rounded",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "1AB9C80E-4064-47AF-A64F-C36BD2C9B3F7",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "91CDEC85-67C8-44FF-9664-CE29BABDD6BB",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "D5404833-90B7-471A-96B1-76B0B0C11EEB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

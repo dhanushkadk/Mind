@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "52D57517-39B0-4BA5-A8A5-EAEF386E77C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A374015D-D195-4131-A49D-AA1DDA06365A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0913A3B0-4A97-4C1A-BBAE-67DA90E3B8ED",
+    "height": 281,
+    "width": 239,
+    "x": 8,
+    "y": 20
+  },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "do_objectID": "02D6DEA3-9232-4879-9E15-175EB7598C94",
+    "layoutAnchor": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5FBDA8D8-074E-40B8-A1CA-0959547CB718"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9457E524-D91F-4BC9-9F54-C45D0EAB1823"
+    },
+    {
+      "class": "text",
+      "id": "A39A2506-43D3-4854-BFB4-8F06057DA353"
+    },
+    {
+      "class": "group",
+      "id": "9706EE49-261E-469E-9C00-56CE83FE158C"
+    }
+  ],
+  "name": "Text",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "A4FAB932-33B2-4D51-B6AC-146AC0081F8C",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "6784D3B8-B126-49F1-A56D-3DD71C719149",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "A5B96B83-E256-4397-8663-AC3B1696AE79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

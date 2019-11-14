@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "155F8E9C-130F-4736-8ADA-75F1C0E442A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "864A19A7-0203-4BA9-AC6B-9313BBB37B6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4ACE8CED-38DF-400E-93D6-027503DC7AF9",
+    "height": 141,
+    "width": 223,
+    "x": 16,
+    "y": 168
+  },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "do_objectID": "C00289BC-14EE-40AC-902F-C8DB355A6AC7",
+    "layoutAnchor": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "ECE398B3-4ECD-4BE5-BA14-7197B7DA2756"
+    },
+    {
+      "class": "group",
+      "id": "4D8A2D43-CAC1-4449-974B-AE4115FE5628"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2E61B85-5332-4E15-BC78-1E142929F67E"
+    },
+    {
+      "class": "text",
+      "id": "D24826AE-D141-403C-AF93-28F5BF84E4E9"
+    }
+  ],
+  "name": "Text",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "5FF73044-4FB1-4B93-BBB1-D1D490D57204",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "E4C658BE-0CF9-45FE-91B3-EDD39196E270",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "FEBD43FA-12CB-49DC-8528-097AC5BE24A3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

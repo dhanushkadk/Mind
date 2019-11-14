@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D19B320C-C1A1-4D33-9FCE-77D953F7CB13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01241065-055A-471B-9579-D2E921DC8731",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "A83FF74B-89F4-450B-A51D-0E9C3FA27FA5",
+    "do_objectID": "FF5B530E-3914-4F44-A612-EC1BED6170F9"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C98086E8-1567-4B78-A8BF-58968E0F15B8",
+    "height": 48,
+    "width": 79,
+    "x": 283,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Button",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C9CEE6E6-64E6-418D-B362-5CAE914F651F",
+      "overrideName": "F541F2DF-F3B1-47D7-B806-930B1110DBF9/94B27EF9-07C6-4353-9DF1-99B8FF5FA091_stringValue",
+      "value": "Tooltip"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "37204648-6332-489B-B76A-874E0392C7AB",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "05F54B75-ACC5-414A-B9A1-B5C3FEDCCBB2",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "A3E45451-319E-4A26-BBF6-A54D5601C220",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "583ABBBB-26AA-484C-B9DE-979D2236243E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "48E52BCE-30EA-4809-A8D8-7C61E54DCBB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87FBFCD6-8B8D-4ABF-A809-3E5B59DE86D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9E6A08F-E755-4895-A360-BE83B139FF90",
+    "height": 71,
+    "width": 256,
+    "x": 0,
+    "y": 350
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "38398092-6745-475A-AD40-2BBAF600A1F3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F1A51835-3B47-4029-8D7E-3A1C6EE04766"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49310A55-1601-482A-8C88-2C7684E8A671"
+    },
+    {
+      "class": "text",
+      "id": "CC9B4421-2CC5-4D34-B38F-663F1D263EE1"
+    }
+  ],
+  "name": "text-input/trailing-icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "95269CF8-71EC-4290-8938-7E543CB3516C",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "940520EC-B0A7-4D1A-8EB9-2438799E96EF",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "3E666A67-E65E-4682-A710-88BB8D43116D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

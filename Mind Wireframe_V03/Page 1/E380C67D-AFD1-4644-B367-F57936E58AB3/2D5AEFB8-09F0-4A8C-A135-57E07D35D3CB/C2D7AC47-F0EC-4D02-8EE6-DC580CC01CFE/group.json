@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2D7AC47-F0EC-4D02-8EE6-DC580CC01CFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76C2B7E3-4D5E-4946-9DE7-24EF1DC74866",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61DA1336-7BC3-486A-812C-1EF07D75BAC1",
+    "height": 389,
+    "width": 193,
+    "x": 280,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C7E61799-D2BB-4F28-B449-7C1D46F4438F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1B2B0F65-6B5B-4330-8B3A-C03CC47345AB"
+    },
+    {
+      "class": "group",
+      "id": "B4D4B4E2-11F6-495A-BD44-7220F74182FC"
+    },
+    {
+      "class": "group",
+      "id": "21DF7075-4A53-46E8-8BBB-700BC2A1BFD0"
+    },
+    {
+      "class": "group",
+      "id": "94EBBEAD-DEC3-4B68-9EC5-BA419F5331F8"
+    }
+  ],
+  "name": "pie charts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "0C8BF9A7-0E24-418F-9613-E14E63EEA6AF",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "B0D03537-8D49-44E8-A993-F2D38551FED9",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "31B546DB-6732-4215-884A-81F6AB0AF21A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 32,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
