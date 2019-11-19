@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "73510C8E-FB33-4083-81F1-3A8971F74C1B",
-    "height": 2547,
+    "height": 1873,
     "width": 1440,
     "x": 671,
     "y": -157
@@ -35,7 +35,7 @@
     "do_objectID": "1570FD59-5E75-4497-849C-A9002E391A71"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,18 +60,6 @@
     },
     {
       "class": "group",
-      "id": "B6D086E3-2635-4F37-BB20-68D4404FBA70"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3656AD17-88B1-4225-BF53-602BFDF4BDD4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0A095E8B-D708-486A-B195-D059FE94FB43"
-    },
-    {
-      "class": "group",
       "id": "8B48E02B-95EA-46CA-9776-28FF37D72021"
     },
     {
@@ -83,10 +71,6 @@
       "id": "FC83AF21-00F5-4B6F-9725-FE1F90109A33"
     },
     {
-      "class": "symbolInstance",
-      "id": "B0244358-3DE5-44C6-8063-5C28D4E9EDE0"
-    },
-    {
       "class": "group",
       "id": "6417D79E-9C24-4A2B-8849-A518E5A0EF46"
     },
@@ -95,8 +79,24 @@
       "id": "F5361D53-C85A-45E7-880A-88FCC9C435DB"
     },
     {
+      "class": "symbolInstance",
+      "id": "241D1C5A-6448-42FC-B8A8-1904F873D247"
+    },
+    {
       "class": "group",
-      "id": "658E9AB7-6DBD-4023-B4ED-14D314B115F4"
+      "id": "4CEC615C-5702-42AE-8001-60C36F7FAA4B"
+    },
+    {
+      "class": "group",
+      "id": "56C40FDD-29FB-4220-976A-D310C7061DA4"
+    },
+    {
+      "class": "group",
+      "id": "7366AA62-D5F6-40C3-B9C4-3C08806ADE8D"
+    },
+    {
+      "class": "group",
+      "id": "14399FD6-AC53-4A6D-BDDF-4D9252DABFC2"
     }
   ],
   "layout": {
@@ -115,7 +115,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1110
   },
-  "name": "Adding course step 2",
+  "name": "trainer adding course step 2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

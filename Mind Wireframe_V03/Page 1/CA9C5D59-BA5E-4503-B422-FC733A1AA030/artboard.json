@@ -35,7 +35,7 @@
     "do_objectID": "9CF0227A-9D06-4DC7-862E-167D09A4AB6D"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,19 +52,83 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "26EF3067-0A6A-4CA8-BF9A-9614B1987DD4"
     },
     {
-      "class": "group",
-      "id": "CDF0939A-63FB-4958-88ED-427589FFD155"
+      "class": "symbolInstance",
+      "id": "F31F75D6-DD46-45C8-B05F-563AE0E02771"
     },
     {
-      "class": "group",
-      "id": "524A48DC-E4BA-487E-B3B9-439CF493B1F7"
+      "class": "text",
+      "id": "4CE44850-69C6-417F-968F-D3CE26C18482"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E09CB089-9BD9-4DEE-BEFF-902A4A8C13C2"
+    },
+    {
+      "class": "text",
+      "id": "07D43816-68D0-4AEB-98C9-8AACBC5B0DCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6FEB183-A287-4BE0-A192-EC03931D8279"
+    },
+    {
+      "class": "text",
+      "id": "15E2919A-26CD-4D67-8FAC-DAC0A98827E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "089C9CB3-77EF-4DED-ACD0-0DEF98037A00"
+    },
+    {
+      "class": "text",
+      "id": "C32F7CF5-02EE-42AE-950B-95EB4EF1C86B"
+    },
+    {
+      "class": "text",
+      "id": "5299E12C-40D5-4A21-B9B1-0C52BBC5CFB3"
+    },
+    {
+      "class": "rectangle",
+      "id": "69529669-4030-49B5-8E52-C1F242D578EA"
+    },
+    {
+      "class": "text",
+      "id": "FE19E36E-6F05-4D21-8EA4-AE1AB6CA213B"
+    },
+    {
+      "class": "text",
+      "id": "FD57716E-E7C1-45BF-A690-04EC73AED509"
+    },
+    {
+      "class": "rectangle",
+      "id": "7BED4847-B981-4157-9274-7E4CEA53A033"
+    },
+    {
+      "class": "text",
+      "id": "D77344FF-113C-4ED9-B7C8-7F34F67A0C63"
+    },
+    {
+      "class": "text",
+      "id": "45431F2F-B1A6-46C3-AAB0-5978797A06EE"
+    },
+    {
+      "class": "rectangle",
+      "id": "7B963AD2-072E-45FC-A962-B9AEDC0371BB"
+    },
+    {
+      "class": "text",
+      "id": "73EF735C-0C04-4EB2-A0DB-29E60CAAC217"
+    },
+    {
+      "class": "text",
+      "id": "78838C70-1F66-4936-B414-972A2E41DF14"
     },
     {
       "class": "symbolInstance",
@@ -77,6 +141,10 @@
     {
       "class": "group",
       "id": "5E4BD780-C503-463E-A034-6048482D3323"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A14FAAE3-87E6-44BA-9898-F644837F8254"
     }
   ],
   "layout": {
@@ -95,7 +163,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1110
   },
-  "name": "Adding course step 1",
+  "name": "trainer adding course step 1",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
