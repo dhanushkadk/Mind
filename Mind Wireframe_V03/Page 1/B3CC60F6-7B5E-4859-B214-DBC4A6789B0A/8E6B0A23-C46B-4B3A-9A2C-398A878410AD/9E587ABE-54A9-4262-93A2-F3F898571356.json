@@ -9,41 +9,41 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8136867880821228,
-            "green": 0.7720114588737487,
-            "red": 0.7280015349388123
+            "blue": 0.8449671648550725,
+            "green": 0.8449671648550725,
+            "red": 0.8449671648550725
           },
           "MSAttributedStringFontAttribute": {
             "_class": "UIFontDescriptor",
             "attributes": {
               "name": "SharpSansNo1-Bold",
-              "size": 35
+              "size": 18
             }
           },
-          "kerning": 0,
+          "kerning": 0.2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 40,
-            "minimumLineHeight": 40
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 21,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Or you can upload PDF"
+    "string": "Type description"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "413ACEF1-F5D2-4D57-802C-0DB701273F24",
+  "do_objectID": "9E587ABE-54A9-4262-93A2-F3F898571356",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "87F58FC6-FD8B-48CB-A089-3EFA42882903",
+    "do_objectID": "C6E24D01-AA17-4584-B16F-FA951B065DD7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FBCFCA6B-ACDA-4D84-A770-33A7B6F63E7B",
-    "height": 40,
-    "width": 570,
-    "x": 0,
-    "y": 5
+    "do_objectID": "139A4443-6347-4A27-9EE3-D07D1E141654",
+    "height": 22,
+    "width": 155.330985915493,
+    "x": 20,
+    "y": 16
   },
-  "glyphBounds": "{{0, 9}, {357, 35}}",
+  "glyphBounds": "{{0, 5}, {136, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,44 +69,43 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Or you can upload PD",
+  "name": "Type description",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "DBF1EC85-DFD8-4329-98E6-9ED8D96228A6",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4C3F0F15-1EF7-4D5C-9DFA-B99A333A8EF1",
+    "do_objectID": "47BE22A3-B60F-4BB3-AB05-89EF5E653C32",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "79EE0F28-5BF5-417D-A5A6-F36505514274",
+      "do_objectID": "5972CD56-9FF1-4C92-B9AE-3858AD6E3B26",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8136867880821228,
-          "green": 0.7720114588737487,
-          "red": 0.7280015349388123
+          "blue": 0.8449671648550725,
+          "green": 0.8449671648550725,
+          "red": 0.8449671648550725
         },
         "MSAttributedStringFontAttribute": {
           "_class": "UIFontDescriptor",
           "attributes": {
             "name": "SharpSansNo1-Bold",
-            "size": 35
+            "size": 18
           }
         },
-        "kerning": 0,
+        "kerning": 0.2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 40,
-          "minimumLineHeight": 40
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         },
         "textStyleVerticalAlignmentKey": 0
       },
