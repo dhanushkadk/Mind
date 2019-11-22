@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "54BDC596-6D88-4D92-B9CD-1C0B3A1225A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2CAF492-4609-432C-BB72-BB089F1B4EB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2B02FB87-D98D-458A-9168-C0F4F2FA6675",
+    "height": 48,
+    "width": 48,
+    "x": 8,
+    "y": 12
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8EBDEDF2-BC59-4216-B3AB-182F742A0037"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "8AB3D485-BE0D-465A-93CA-976B4C596458"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D587D724-6021-4AF3-B4F9-48EE9DFEBEA2"
+    }
+  ],
+  "name": "Picture",
+  "nameIsFixed": false,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "C8A43AF6-755D-47EC-8CFC-47DD6DB73B62",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "005D5C30-F50E-4823-B7B5-C9F1D1B14CE5",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "7D00B21F-9A4A-40E4-A2BA-8D800E3BFEC6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 48,
+            "enabled": 1,
+            "modelID": "constraint_20378da0-60fc-466b-b7dd-65a1c1a2c07f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 48
+          },
+          "automatic": 1,
+          "centerVertically": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_45067fdb-9828-445f-bec8-e90ec51afa0b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_8f56bc71-a6ed-436e-bd43-eced04b810fb",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

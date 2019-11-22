@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D08E7DF-BF35-444E-8D14-0C9DBFE41A70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD84C207-2A91-4F3F-BF59-FDA633D2DC0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E05EA04C-A46A-4D3A-B7F6-8DFAB8121EC9",
+    "height": 28,
+    "width": 154.9765625,
+    "x": 16,
+    "y": 324
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D50AC820-F07C-4327-AE9E-B3A9AB910ED5"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "086611F0-0597-48F9-9D2B-235BF3D345E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE0C8964-2926-4AA4-8808-36E876DF2381"
+    }
+  ],
+  "name": "Tags",
+  "nameIsFixed": true,
+  "resizingConstraint": 51,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "80AB7A56-C879-4533-898B-FE2ECE8CD5BB",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "5BCA7689-5792-4E9F-B529-9AC5AD6F537D",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "F0AAC263-EE05-4A3B-8FAE-79900EDEFAE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 1,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 8,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

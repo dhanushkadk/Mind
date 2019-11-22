@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A240B135-5A2E-4308-ADCE-3A519B31BB44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5BC954A-7F2F-411C-9FB6-C8578DFA116D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FBA70B4F-79DF-47CF-BD59-44F25EBC1A75",
+    "height": 72,
+    "width": 255,
+    "x": 165,
+    "y": 327
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "45627E71-2C07-47E2-861B-9739E34816BD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F969F035-68E1-4FCB-8911-684B1BB7B002"
+    },
+    {
+      "class": "group",
+      "id": "ECD4C55C-9A87-4E71-A91E-C0B4CC454820"
+    },
+    {
+      "class": "group",
+      "id": "C056E10A-0185-4868-B407-3FA1ECE0ECF7"
+    },
+    {
+      "class": "group",
+      "id": "7E78AF8A-4AEC-4E43-B6BB-4731F8296BD3"
+    }
+  ],
+  "name": "Card/Blog/Simple",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "162CACFA-0EA0-4201-B441-08A319EC1FA7",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "DBF3469B-F108-4EE7-B62A-13795B0C3BAA",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "9CF85957-75B7-4F4D-BA6E-198C8063AA16",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

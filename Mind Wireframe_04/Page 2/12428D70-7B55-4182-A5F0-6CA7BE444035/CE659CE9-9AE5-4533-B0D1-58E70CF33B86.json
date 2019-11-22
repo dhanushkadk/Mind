@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE659CE9-9AE5-4533-B0D1-58E70CF33B86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0D0A260-CD4F-44A5-9181-9F94E6D2DC9B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98EFC88D-304E-4A2D-9DD6-2BBEB79ACEA6",
+    "height": 232,
+    "width": 944,
+    "x": 40,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Header",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E59E3B6F-F231-4C8C-A452-2DECAB335DF6",
+      "overrideName": "0893F956-ACD7-44A4-B350-3CE5DFE422C6_stringValue",
+      "value": "Form"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF1302A6-8455-4DAF-A97B-DF25A10BAB46",
+      "overrideName": "473BB1BA-989D-470C-91D3-F9DA7FEA2E9C_stringValue",
+      "value": "Here you have most of the inputs you usually find in a form (you can find the dropdown in the navigation). Save for the toggles, they are all interchangable. To hide a symbol within the symbol (e.g. the label or helper) simply change the symbol overwrite to \"none\"."
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "9A9C6A8F-D723-49CD-815E-F6E9DD1498AA",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "C96CBCE7-7334-4797-BC17-B189D339D982",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "97725CFB-1D0A-4E67-8862-9CC1D4175819",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9402286F-5E36-4643-A21B-D4AAFF582577",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2ADD5D91-79CE-4A54-9C8B-51212D63BEE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "746F5CB3-F963-494C-9C38-447537597D00",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A413D4B8-0D08-41AC-86E6-81095FAD5FFF",
+    "height": 352,
+    "width": 784,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "do_objectID": "A2B139CB-DB19-4D17-B26F-AEE3258747E0",
+    "layoutAnchor": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4C5EDBDE-2A5D-470E-98B4-16EABB61F2B0"
+    },
+    {
+      "class": "text",
+      "id": "3A8657AF-9829-4E2A-85B2-6AF54118728E"
+    },
+    {
+      "class": "text",
+      "id": "6C07B9ED-3CBA-4624-AEF4-69E2FD7C4939"
+    },
+    {
+      "class": "text",
+      "id": "AE94AF05-5001-4A6E-AD24-570BD5F700A6"
+    },
+    {
+      "class": "text",
+      "id": "FB66F1A4-8001-451A-8E12-5AEF2545DABB"
+    }
+  ],
+  "name": "Text",
+  "nameIsFixed": true,
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "1B1FF393-9ED0-4D25-92B3-4080B9D5415A",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "DD803D2D-3CE7-412B-9541-A2D168B8A90D",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "4DF4023A-4326-49EA-8DF2-931D3F77D012",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerVertically": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_4145fefe-0bbf-4b6d-9fc8-544a8e9d456d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_6b116e67-5e16-4f5d-b288-278a03254f50",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

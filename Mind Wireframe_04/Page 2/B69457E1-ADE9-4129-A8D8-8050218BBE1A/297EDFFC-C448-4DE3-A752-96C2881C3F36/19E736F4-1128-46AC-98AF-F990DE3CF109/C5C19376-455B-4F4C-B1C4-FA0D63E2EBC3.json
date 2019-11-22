@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5C19376-455B-4F4C-B1C4-FA0D63E2EBC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E6E6205-05DF-4A78-8B20-6BD8DBDDCCA3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "AF5C0E80-1931-4084-B744-CF66810297B6",
+    "do_objectID": "294C75F6-42F9-44C7-BC73-275DC4270C37"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "537647BF-AB34-4858-AFFE-1F04120036FE",
+    "height": 48,
+    "width": 79,
+    "x": 283,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Button",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C9CEE6E6-64E6-418D-B362-5CAE914F651F",
+      "overrideName": "DA8BE60F-6A0D-4123-A47D-F847F1B221C0/C5EB282F-1E99-4DCD-B07D-E153AE25AA95_stringValue",
+      "value": "Tooltip"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "0CF8312E-B8FB-432F-AA85-C693CDB8D2DE",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "DE6BFB59-2FBD-4970-9ABB-306E55815B98",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "DE1CD4A1-F1DD-4B99-A4DA-BBED6FAEDDA4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8AB7C018-84DD-4863-BE0B-96D8C0B1D0A7",
+  "verticalSpacing": 0
+}

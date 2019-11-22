@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE2A93F6-D11A-49A4-BD4F-38E941BE43F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D709ED0-1A62-49C2-B255-D30FA6B77399",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD527C30-4ACE-4CC6-BC93-C5347861B115",
+    "height": 376,
+    "width": 255,
+    "x": 450,
+    "y": 783
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "34F5F8A0-E2F0-4166-9FA1-78BFB385F6B3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CA30A4A4-7609-4533-81AB-442F200F9C32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87D24F88-A701-4659-BE4E-FC569A729E66"
+    },
+    {
+      "class": "group",
+      "id": "3EAC7CBA-049E-43DB-9DDC-CF874D9230C2"
+    },
+    {
+      "class": "group",
+      "id": "0704A535-87EC-400E-B829-279611134105"
+    },
+    {
+      "class": "group",
+      "id": "45F1963E-9028-4BDD-AA31-7B93B569C694"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BBCA7CC-91DC-45EC-81A0-C576E6DFA188"
+    }
+  ],
+  "name": "Card/Blog/Simple Copy 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "52B57DE2-BC69-4367-A1E2-6DCC4EF667B1",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "8545E2EC-DAA1-4FAB-8F27-8EF18FD651F7",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "8C5D7CAA-DD48-4D9B-824F-F347BDDB05AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

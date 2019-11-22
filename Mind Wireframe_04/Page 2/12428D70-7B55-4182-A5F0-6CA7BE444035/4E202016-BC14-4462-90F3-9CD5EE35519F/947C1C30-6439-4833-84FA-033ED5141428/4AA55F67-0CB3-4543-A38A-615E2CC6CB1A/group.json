@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4AA55F67-0CB3-4543-A38A-615E2CC6CB1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23D178E5-866F-48E7-9ED9-0BFED69A45F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC19DC1A-CA3A-4888-B508-EF73C538B70C",
+    "height": 156,
+    "width": 257,
+    "x": 0,
+    "y": 208
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "145362FB-E82B-4B71-A32C-9B320BC5F026"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "270D5CC0-2143-41F7-9E75-63D5395954DE"
+    },
+    {
+      "class": "text",
+      "id": "98D28111-8E45-40C8-830F-0297AD389BB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13DF85D2-1928-429F-A40C-EEE1EAA3A362"
+    },
+    {
+      "class": "text",
+      "id": "D3FF325A-D87E-4606-97A5-D308970A6193"
+    }
+  ],
+  "name": "Text input/Focus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "D6A2167E-9F08-43DB-8A09-BADFA40ECD7E",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "B75E031E-FF6D-4276-A495-4A1A473538B5",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "336AFD9C-40A2-4421-94C4-7442DF936ED4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

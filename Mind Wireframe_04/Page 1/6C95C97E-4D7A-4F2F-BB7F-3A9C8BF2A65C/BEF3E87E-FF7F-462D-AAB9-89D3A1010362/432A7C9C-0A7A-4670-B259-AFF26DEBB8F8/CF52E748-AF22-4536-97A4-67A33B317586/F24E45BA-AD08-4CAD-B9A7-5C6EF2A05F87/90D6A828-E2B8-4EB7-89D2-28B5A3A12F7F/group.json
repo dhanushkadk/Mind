@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "90D6A828-E2B8-4EB7-89D2-28B5A3A12F7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2772C72-35B6-4A2D-9B06-03FC59BC86EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C65C8D66-DF78-4CF5-B684-7306A4B64D02",
+    "height": 12,
+    "width": 224,
+    "x": 0,
+    "y": 29.22916666666697
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7BA77B8D-DA91-46EF-9968-F1AC044BCAC8"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "55768FF4-B766-4A8F-B01E-E13D0A07DBC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9660D580-DACB-4B87-83F4-C9FEEFFC1F48"
+    }
+  ],
+  "name": "chart/line/1-3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "CA0310F1-2D4F-44CD-A5A5-EB97959A6002",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "C4CDE54E-5A78-45A8-B5BC-15FBBD759326",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "5AB34333-22A6-435D-AA2A-737075F814C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "270A37CC-A88E-4D12-A2D2-EBD8CF020FA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1168044C-D689-420C-8582-C1D6EA344D7A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EAA83FA3-3904-4595-9C89-477F1925C23D",
+    "height": 232,
+    "width": 944,
+    "x": 40,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E59E3B6F-F231-4C8C-A452-2DECAB335DF6",
+      "overrideName": "0893F956-ACD7-44A4-B350-3CE5DFE422C6_stringValue",
+      "value": "Buttons"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF1302A6-8455-4DAF-A97B-DF25A10BAB46",
+      "overrideName": "473BB1BA-989D-470C-91D3-F9DA7FEA2E9C_stringValue",
+      "value": "All the buttons are responsive, you can overwrite the text and they will adapt to the content size. All the symbols can also be made wider with fixed width (e.g. for full width buttons), only for the text buttons use the streatchable option. You can esily use overwrites to change states and the bar active instance."
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "1F0B135C-4437-4977-9B44-F601C23465B9",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "96E8F57F-CF06-41F1-8ED9-7173428F54B6",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "41B7C945-F894-4FDB-A0A2-F8D6037EAB25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9402286F-5E36-4643-A21B-D4AAFF582577",
+  "verticalSpacing": 0
+}

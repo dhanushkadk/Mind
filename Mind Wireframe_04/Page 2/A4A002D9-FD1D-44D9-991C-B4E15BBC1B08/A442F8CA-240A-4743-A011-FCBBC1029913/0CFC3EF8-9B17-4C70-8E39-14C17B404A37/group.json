@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0CFC3EF8-9B17-4C70-8E39-14C17B404A37",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "765211BA-EED6-4E08-9718-70844FBA0C3D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F45469A0-26BB-4DC7-BF12-8F745FDF75DF",
+    "height": 304,
+    "width": 140,
+    "x": 768,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "128E815D-F415-4A1E-B59A-B30CDB3DD7FD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FEEC46EE-68A1-44A3-BDB7-4B2CB61869C7"
+    },
+    {
+      "class": "group",
+      "id": "E77C48A0-9E74-47E2-8965-18C36013BCEE"
+    },
+    {
+      "class": "group",
+      "id": "E40C23A5-5E54-4AE1-A63A-5381D99A8AAF"
+    },
+    {
+      "class": "group",
+      "id": "23735044-6031-41E7-9DE5-9B9AEDA3A602"
+    },
+    {
+      "class": "group",
+      "id": "F116A91D-C7D6-4B09-B62D-5CF0113C2A1F"
+    }
+  ],
+  "name": "dots",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "2A323815-04D6-4BEB-A486-9DC7C444D779",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "4D19F34F-F760-4BF1-B0E0-7E7A27A41296",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "071A3477-A345-440E-8D24-30414AFCB0D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 32,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

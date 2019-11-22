@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "866B4F55-6DA8-41B7-9C53-A41064DE52BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A699D32-B638-48C0-9BF5-C641BD37FF40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB89A418-D79E-49BC-8B0C-AA8B6123A83E",
+    "height": 321,
+    "width": 160,
+    "x": 208,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7D7D395D-9C47-487B-A872-DF5D9D9B2E86"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "95B94FEA-35E0-409D-88B0-857F7F674A03"
+    },
+    {
+      "class": "group",
+      "id": "A9A4BEC6-06AF-4214-B259-5413E482487D"
+    },
+    {
+      "class": "group",
+      "id": "759CCC40-1B66-43FB-8966-5ABDCD7EDB6C"
+    },
+    {
+      "class": "group",
+      "id": "22AE5E27-DF44-4D1D-AB10-74F44D56F7F3"
+    }
+  ],
+  "name": "Rounded",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "CEB8B41F-04C3-4F7C-835B-EF642A6D99D0",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "96AAAF0D-A63D-4DF0-9FA4-70A4BCCC2D90",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "14C31DBE-7B2E-4810-8BCB-72E68428A08B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
