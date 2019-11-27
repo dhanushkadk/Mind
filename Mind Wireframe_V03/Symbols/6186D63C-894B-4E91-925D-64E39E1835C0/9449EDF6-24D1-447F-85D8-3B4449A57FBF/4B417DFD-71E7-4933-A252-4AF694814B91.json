@@ -9,39 +9,41 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1607843137254902,
-            "green": 0.04313725490196078,
-            "red": 0.08627450980392162
+            "blue": 0.2543048469387755,
+            "green": 0.2310909003086912,
+            "red": 0.217825787948643
           },
           "MSAttributedStringFontAttribute": {
             "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "Helvetica",
-              "size": 18
+              "name": "Helvetica-Light",
+              "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "baseWritingDirection": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
+            "paragraphSpacing": 8
+          }
         },
-        "length": 9,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "interests"
+    "string": "Creator : Name"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4E58B64D-D149-498E-8613-B502BEB00135",
+  "do_objectID": "4B417DFD-71E7-4933-A252-4AF694814B91",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "05E57DFC-4E91-4ABE-B585-35F46A76A32A",
+    "do_objectID": "FED84BBA-37D5-4CBE-B26C-5CA0C76A40AA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DDC160A6-F1F4-429C-9353-C98FEFD05F39",
-    "height": 22,
-    "width": 69,
+    "do_objectID": "63F195D6-C153-4FC1-B72C-3CAA43336DB2",
+    "height": 24,
+    "width": 110,
     "x": 0,
-    "y": 16
+    "y": 112
   },
-  "glyphBounds": "{{1, 5}, {67, 14}}",
+  "glyphBounds": "{{0, 4}, {109, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,53 +69,74 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "interests",
-  "nameIsFixed": false,
-  "resizingConstraint": 11,
+  "name": "Body Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "32BF5CA2-88AE-4AE7-BC83-DB7FE963223F",
-      "opacity": 0.9000000357627869
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "8121ADBB-D2D2-4426-874B-C55C461AE91F",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
     },
-    "do_objectID": "074309FD-17DE-48F8-A7B2-3B4F590932A3",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "94CB95BF-7D35-4FC6-BE0D-47826F66CE0E",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "8C654A6D-50F6-4F53-8ECB-B6ECD0F38571",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F9EC930F-F9E6-41CA-839E-3BC2835376ED",
+      "do_objectID": "AEFC05E4-1584-4D08-A522-241ADF5223D5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1607843137254902,
-          "green": 0.04313725490196078,
-          "red": 0.08627450980392162
+          "blue": 0.2543048469387755,
+          "green": 0.2310909003086912,
+          "red": 0.217825787948643
         },
         "MSAttributedStringFontAttribute": {
           "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "WorkSans-Black",
-            "size": 18
+            "name": "Helvetica-Light",
+            "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "baseWritingDirection": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
+          "paragraphSpacing": 8
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
